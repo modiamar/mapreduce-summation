@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: com.dataflair.mrStructure.retail.analysis.store.ProductDat
- aRunner
+Main-Class: com.dataflair.mrStructure.retail.analysis.sales.StoreDataR
+ unner
 
